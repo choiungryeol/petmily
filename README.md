@@ -1,6 +1,6 @@
 # 최웅렬 첫번째 팀 프로젝트 : PETMILY
 
-### [ Learning Management System (교육기관 학습 종합관리시스템) ](https://www.2ms.com/)
+### [ PETMILY (반려동물 시설 종합 정보 플랫폼) ](https://www.petmily.com/)
 
 ![banner](https://github.com/doowon13/2ms/assets/83566946/c36841b6-da13-48bb-9b27-927bff51f4bf)
 

@@ -93,9 +93,6 @@
 
 ![image](https://github.com/choiungryeol/petmily/assets/114320086/602f787b-9668-4e4a-9e1f-fc2f60f54968)
 
-
-![image](https://github.com/choiungryeol/petmily/assets/114320086/b083cafa-3fa9-4178-b706-208e11f2fe37)
-
 <br>
 </div>
 </details>

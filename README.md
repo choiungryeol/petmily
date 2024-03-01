@@ -44,22 +44,16 @@
 </details>
 
 ### 👨‍💻 마이페이지
-> * 설문지에 대한 문항을 등록하여 훈련생들에게 배포할 수 있습니다.
-> * 훈련생은 설문을 작성할 수 있습니다.
-> * 각 설문은 '매우 그렇지 않다' ~ '매우 그렇다'의 데이터로 파이그래프로 시각화되어 보여집니다.
+> * 나의 펫 정보를 조회/등록/수정/삭제할 수 있습니다.
+> * 나의 회원정보를 변경할 수 있습니다.
 
 <details>
 <summary style="cursor: pointer">미리보기</summary>
 <div markdown="1">
-<strong>설문등록</strong>
+<strong> - 나의 펫 정보</strong>
 
-![image](https://github.com/doowon13/2ms/assets/83566946/f7c7acf3-08bb-4f9a-a5e1-b32f8a473037)
+![image](https://github.com/choiungryeol/petmily/assets/114320086/e9fba809-f574-4649-8a7e-7b2051f54121)
 
-<strong>설문 진행</strong>
-![image](https://github.com/doowon13/2ms/assets/83566946/3efbc325-6d31-4180-a75c-350d55186746)
-
-<strong>설문결과 시각화</strong>
-![image](https://github.com/doowon13/2ms/assets/83566946/41032d8c-d8af-4b1d-bbe5-f852cfeb0c9c)
 <br>
 </div>
 </details>

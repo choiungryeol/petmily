@@ -1,4 +1,4 @@
-![image](https://github.com/choiungryeol/petmily/assets/114320086/cd205131-bb11-46e5-a945-642c8e6916b8)# 최웅렬 첫번째 팀 프로젝트 : PETMILY
+# 최웅렬 첫번째 팀 프로젝트 : PETMILY
 
 ### [ PETMILY (반려동물 시설 종합 정보 플랫폼) ](https://www.petmily.com/)
 
@@ -92,6 +92,9 @@
 <strong>- 나의 문의내역 </strong>
 
 ![image](https://github.com/choiungryeol/petmily/assets/114320086/602f787b-9668-4e4a-9e1f-fc2f60f54968)
+
+![image](https://github.com/choiungryeol/petmily/assets/114320086/20d5d453-e209-41fb-b154-8dc447c1f9c0)
+
 
 <br>
 </div>

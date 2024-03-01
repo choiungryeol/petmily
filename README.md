@@ -65,15 +65,17 @@
 <details>
 <summary style="cursor: pointer">미리보기</summary>
 <div markdown="1">
-<strong>시설 등록</strong>
+<strong>- 시설 등록 요청</strong>
+![image](https://github.com/choiungryeol/petmily/assets/114320086/6a845be9-a308-481a-8eb7-efce9845eeaa)
+  
+<strong> - 시설 등록</strong>
 
 ![image](https://github.com/choiungryeol/petmily/assets/114320086/3d7eec3b-6a78-4e1d-97e6-8f894094afc8)
 
-<strong>설문 진행</strong>
-![image](https://github.com/doowon13/2ms/assets/83566946/3efbc325-6d31-4180-a75c-350d55186746)
+<strong> - 시설 삭제</strong>
+![image](https://github.com/choiungryeol/petmily/assets/114320086/03a839f2-dc3b-44ee-be18-04a986a7e928)
 
-<strong>설문결과 시각화</strong>
-![image](https://github.com/doowon13/2ms/assets/83566946/41032d8c-d8af-4b1d-bbe5-f852cfeb0c9c)
+
 <br>
 </div>
 </details>

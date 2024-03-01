@@ -29,6 +29,7 @@
 <summary style="cursor: pointer">미리보기</summary>
 <div markdown="1">
 <strong>GPS 동의 시설 검색</strong>
+  
 ![image](https://github.com/doowon13/2ms/assets/83566946/f7c7acf3-08bb-4f9a-a5e1-b32f8a473037)
 
 <strong>GPS 비동의 시설 검색 </strong>

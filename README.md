@@ -28,11 +28,14 @@
 <details>
 <summary style="cursor: pointer">미리보기</summary>
 <div markdown="1">
-<strong>GPS 동의 시설 검색</strong>
+<strong> * GPS 동의 시설 검색</strong>
   
 ![image](https://github.com/choiungryeol/petmily/assets/114320086/32629ef3-5b40-4ec4-a694-81f1f43dc727)
 
-<strong>GPS 비동의 시설 검색 </strong>
+<strong> * GPS 비동의 시설 검색 </strong>
+
+![image](https://github.com/choiungryeol/petmily/assets/114320086/d20664e0-3f99-46a0-9967-597639bb0dde)
+
 <br>
 </div>
 </details>

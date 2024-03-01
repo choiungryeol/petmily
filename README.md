@@ -28,12 +28,12 @@
 <details>
 <summary style="cursor: pointer">미리보기</summary>
 <div markdown="1">
-<strong>-위치 정보 허용 시설 검색</strong>
+<strong>- GPS 동의 시설 검색</strong>
 
 ![image](https://github.com/choiungryeol/petmily/assets/114320086/4c872ffc-68e9-4665-a5e8-3863d4912fb3)
 
-<strong>개강날짜 지정</strong>
-![image](https://github.com/doowon13/2ms/assets/83566946/ad241767-b68f-4660-8ab6-5f70c7c58cec)
+<strong>- GPS 비동의 시설 검색 </strong>
+![image](https://github.com/choiungryeol/petmily/assets/114320086/1e09398d-0ca5-4920-bba1-0950918a7b68)
 <br>
 </div>
 </details>

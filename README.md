@@ -111,4 +111,5 @@
 `JavaScript` `jQuery` `Ajax` `JSON` `HTML5` `CSS3`
 
 ## DB ERD Diagram
-![image](https://github.com/doowon13/2ms/assets/83566946/2de18a2f-a973-4720-8ba8-8d453255ab69)
+![image](https://github.com/choiungryeol/petmily/assets/114320086/51e9ebe5-53b5-4e9b-8d36-e065358ec7f4)
+

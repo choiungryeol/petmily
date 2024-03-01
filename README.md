@@ -84,7 +84,6 @@
 
 ### 🙋‍♂️ 고객센터
 > * 사용자는 관리자에게 문의글을 작성할 수 있습니다.
-> * 
 
 <details>
 <summary style="cursor: pointer">미리보기</summary>
@@ -95,8 +94,7 @@
 ![image](https://github.com/choiungryeol/petmily/assets/114320086/602f787b-9668-4e4a-9e1f-fc2f60f54968)
 
 
-<strong>과제 작성</strong>
-![image](https://github.com/doowon13/2ms/assets/83566946/5549d864-c276-4cfd-8bb7-062b641a8dc0)
+![image](https://github.com/choiungryeol/petmily/assets/114320086/b083cafa-3fa9-4178-b706-208e11f2fe37)
 
 <br>
 </div>

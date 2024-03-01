@@ -74,6 +74,7 @@
 ![image](https://github.com/choiungryeol/petmily/assets/114320086/3d7eec3b-6a78-4e1d-97e6-8f894094afc8)
 
 <strong> - 시설 삭제</strong>
+
 ![image](https://github.com/choiungryeol/petmily/assets/114320086/03a839f2-dc3b-44ee-be18-04a986a7e928)
 
 

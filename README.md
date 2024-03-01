@@ -29,7 +29,7 @@
 <summary style="cursor: pointer">미리보기</summary>
 <div markdown="1">
 <strong>- GPS 동의 시설 검색</strong>
-![image](https://github.com/choiungryeol/petmily/assets/114320086/4c872ffc-68e9-4665-a5e8-3863d4912fb3)
+![image](https://github.com/choiungryeol/petmily/assets/114320086/50e4d0af-ff0d-4c86-a098-8d6882048dfa)
 
 <strong>- GPS 비동의 시설 검색 </strong>
 ![image](https://github.com/choiungryeol/petmily/assets/114320086/1e09398d-0ca5-4920-bba1-0950918a7b68)

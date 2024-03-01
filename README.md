@@ -4,10 +4,16 @@
 
 ![banner](https://github.com/choiungryeol/petmily/assets/114320086/141e921d-6514-46b0-b7f6-22900a61a335)
 
-## 프로젝트 포트폴리오
-### [ 포트폴리오 링크  ](https://www.canva.com/design/DAF5E3zDYGY/IRKQgg-jjuJDRYN6TNnp5w/view?utm_content=DAF5E3zDYGY&utm_campaign=designshare&utm_medium=link&utm_source=editor) ← Click!
+## 프로젝트 개발 기간 및 수행 인원
+> * 개발 기간 : 23.09.25 ~ 23.10.26(5주)
+> * 수행 인원 : 5명
 
-
+## 프로젝트 담당 역할
+> * 팀장(프로젝트 일정 관리/GIT 형상 관리)
+> * 데이터 베이스 설계
+> * 학적부 페이지 구현(데이터베이스 작업 스케줄러 등록으로 매일 학적부 갱신, 관리자 출석부 조회, 교사 출석부 조회 및 출석체크, 학생 출석 현황 조회)
+> * 설문 페이지 구현(설문지 조회/등록/삭제, 관리자 설문지 배포, 관리자 설문 결과 차트 조회, 학생 설문지 조회 및 작성)
+> * 관리자 회원 관리 페이지 구현(학생/교사 목록 조회 및 삭제)
 
 ## 프로젝트 기능
 

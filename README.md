@@ -2,7 +2,7 @@
 
 ### [ PETMILY (반려동물 시설 종합 정보 플랫폼) ](https://www.petmily.com/)
 
-![banner](https://github.com/choiungryeol/petmily/issues/1#issue-2162435542)
+![banner](https://github.com/choiungryeol/petmily/assets/114320086/141e921d-6514-46b0-b7f6-22900a61a335)
 
 ## 프로젝트 포트폴리오
 ### [ 포트폴리오 링크  ](https://www.canva.com/design/DAF5E3zDYGY/IRKQgg-jjuJDRYN6TNnp5w/view?utm_content=DAF5E3zDYGY&utm_campaign=designshare&utm_medium=link&utm_source=editor) ← Click!

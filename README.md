@@ -66,6 +66,7 @@
 <summary style="cursor: pointer">미리보기</summary>
 <div markdown="1">
 <strong>- 시설 등록 요청</strong>
+  
 ![image](https://github.com/choiungryeol/petmily/assets/114320086/6a845be9-a308-481a-8eb7-efce9845eeaa)
   
 <strong> - 시설 등록</strong>

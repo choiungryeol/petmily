@@ -28,7 +28,7 @@
 <details>
 <summary style="cursor: pointer">미리보기</summary>
 <div markdown="1">
-<strong>위치 정보 허용 시설 검색</strong>
+<strong>-위치 정보 허용 시설 검색</strong>
 
 ![image](https://github.com/choiungryeol/petmily/assets/114320086/4c872ffc-68e9-4665-a5e8-3863d4912fb3)
 
